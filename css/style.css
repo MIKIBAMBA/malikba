@@ -1,0 +1,102 @@
+html {
+  height: 870%;
+  margin: 0;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+.div1 {
+  background-image: linear-gradient(#eaf0fb, #A9E4D7);
+  height: 11%;
+}
+
+span {
+  font-size: 90px;
+}
+
+.div2 {
+  background-image: linear-gradient(#5089C6, #001E6C);
+  height: 86%;
+}
+
+h1 {
+  font-size: 80px;
+  margin: 0;
+  padding-top: 20px;
+  color: #1DB9C3;
+  font-family: 'Bonheur Royale', cursive;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {display: inline-block;
+  width:70%;
+  font-family: 'Gluten', cursive;
+  font-size: 25px;
+  color: #112031;
+}
+
+.cloud1 {
+  height: 20%;
+  position: absolute;
+  left: 10%;
+  top: 120px;
+}
+
+.cloud2 {
+  height: 90px;
+  width: 150px;
+  position: absolute;
+  right: 5%;
+  top: 60px;
+}
+
+.cloud3 {
+  height: 120px;
+  width: 200px;
+  position: absolute;
+  right: 15%;
+  top: 270px;
+}
+
+.pirate {
+  height: 60%;
+  margin-top: 8%;
+  position: absolute;
+  bottom: 0;
+  right: 38%;
+}
+
+.botdiv {
+  background-color: black;
+  height: 3%;
+}
+
+.pirate:hover {
+  height: 63%;
+  transition: .5s ease;
+}
+
+.titles {
+  font-family: 'Acme', sans-serif;
+  color: #152D35;
+  font-size: 60px;
+}
+
+a:hover {
+  font-size: 18px;
+  transition: .5s ease;
+}
+
+.skills {  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+  color: inherit;
+}
+.bottomtextcolor{ color:#54E346;}
+.hbottomcolor{color:#7FFF00;}
