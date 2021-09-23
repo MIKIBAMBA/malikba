@@ -32,7 +32,9 @@ h2 {
   font-size: 40px;
 }
 
-p {display: inline-block;
+p {
+  line-height: 1.5em;
+  display: inline-block;
   width:70%;
   font-family: 'Gluten', cursive;
   font-size: 25px;
@@ -89,6 +91,7 @@ a:hover {
 .skills {  font-family: 'Permanent Marker', cursive;
   font-size: 30px;
   color: inherit;
+  font-weight: lighter;
 }
 .bottomtextcolor{ color:#54E346; line-height: 1.5em;}
 .hbottomcolor{color:#7FFF00; font-weight: lighter;}
