@@ -65,6 +65,7 @@ p {display: inline-block;
 
 .pirate {
   height: 450px;
+  max-height: 50%;
   margin-top: 8%;
   position: absolute;
   bottom: 0;
