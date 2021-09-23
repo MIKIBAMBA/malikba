@@ -12,16 +12,13 @@ body {
   background-image: linear-gradient(#eaf0fb, #A9E4D7);
 }
 
-span {
-  font-size: 90px;
-}
 
 .div2 {
   background-image: linear-gradient(#5089C6, #001E6C);
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 6em;
   margin: 0;
   padding-top: 20px;
   color: #1DB9C3;
@@ -64,7 +61,7 @@ p {
 
 .pirate {
   height: 450px;
-  margin-top: 50px;
+  margin-top: 25px;
   position: relative;
 }
 
