@@ -7,7 +7,8 @@ body {
   text-align: center;
 }
 
-.div1 {background-size: 100%;
+.div1 {height:700px;
+  background-size: 100%;
   background-image: linear-gradient(#eaf0fb, #A9E4D7);
 }
 
@@ -61,7 +62,6 @@ p {display: inline-block;
 
 .pirate {
   height: 450px;
-  max-width: 50%;
   margin-top: 50px;
   position: relative;
 }
