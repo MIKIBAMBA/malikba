@@ -90,5 +90,5 @@ a:hover {
   font-size: 30px;
   color: inherit;
 }
-.bottomtextcolor{ color:#54E346;}
-.hbottomcolor{color:#7FFF00;}
+.bottomtextcolor{ color:#54E346; line-height: 1.5em;}
+.hbottomcolor{color:#7FFF00; font-weight: lighter;}
