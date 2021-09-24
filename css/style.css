@@ -7,11 +7,11 @@ body {
   text-align: center;
 }
 
-.div1 {height:700px;
+.div1 {
+  height: 700px;
   background-size: 100%;
   background-image: linear-gradient(#eaf0fb, #A9E4D7);
 }
-
 
 .div2 {
   background-image: linear-gradient(#5089C6, #001E6C);
@@ -31,8 +31,6 @@ h2 {
 
 p {
   line-height: 1.5em;
-  display: inline-block;
-  width:70%;
   font-family: 'Gluten', cursive;
   font-size: 25px;
   color: #112031;
@@ -85,10 +83,46 @@ a:hover {
   transition: .5s ease;
 }
 
-.skills {  font-family: 'Permanent Marker', cursive;
+.skills {
+  font-family: 'Permanent Marker', cursive;
   font-size: 30px;
   color: inherit;
+}
+
+.bottomtextcolor {
+  color: #54E346;
+  line-height: 1.5em;
+}
+
+.hbottomcolor {
+  color: #7FFF00;
   font-weight: lighter;
 }
-.bottomtextcolor{ color:#54E346; line-height: 1.5em;}
-.hbottomcolor{color:#7FFF00; font-weight: lighter;}
+
+.buttonx {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #7FFF00;
+  font-family: Verdana;
+  font-size: 25px;
+  font-weight: 600;
+  padding: 20px;
+  background-color: #930077;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px auto 60px auto;
+}
+
+.buttonx:hover {
+  color: #930077;
+  background: #7FFF00;
+  text-decoration: none;
+}
