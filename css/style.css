@@ -29,7 +29,7 @@ h2 {
   font-size: 40px;
 }
 
-p {
+.classp {
   line-height: 1.5em;
   font-family: 'Gluten', cursive;
   font-size: 25px;
@@ -91,7 +91,9 @@ a:hover {
 
 .bottomtextcolor {
   color: #54E346;
-  line-height: 1.5em;
+   line-height: 1.5em;
+  font-family: 'Gluten', cursive;
+  font-size: 25px;
 }
 
 .hbottomcolor {
